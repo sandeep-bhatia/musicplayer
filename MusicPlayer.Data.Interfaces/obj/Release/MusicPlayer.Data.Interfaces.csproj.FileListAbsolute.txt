@@ -1,0 +1,8 @@
+C:\streamingvideos\MusicPlayer.Data.Interfaces\Bin\Release\MusicPlayer.Data.Interfaces.dll
+C:\streamingvideos\MusicPlayer.Data.Interfaces\Bin\Release\MusicPlayer.Data.Interfaces.pdb
+C:\streamingvideos\MusicPlayer.Data.Interfaces\obj\Release\MusicPlayer.Data.Interfaces.dll
+C:\streamingvideos\MusicPlayer.Data.Interfaces\obj\Release\MusicPlayer.Data.Interfaces.pdb
+C:\MusicPlayer\MusicPlayer.Data.Interfaces\Bin\Release\MusicPlayer.Data.Interfaces.dll
+C:\MusicPlayer\MusicPlayer.Data.Interfaces\Bin\Release\MusicPlayer.Data.Interfaces.pdb
+C:\MusicPlayer\MusicPlayer.Data.Interfaces\obj\Release\MusicPlayer.Data.Interfaces.dll
+C:\MusicPlayer\MusicPlayer.Data.Interfaces\obj\Release\MusicPlayer.Data.Interfaces.pdb

@@ -1,0 +1,33 @@
+﻿<xapCache source="C:\streamingvideos\AudioPlayer\Bin\Debug\PlayStation_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11/15/2013 11:42:58 PM">
+  <file source="C:\streamingvideos\AudioPlayer\obj\Debug\StreamPlayer.dll" archivePath="StreamPlayer.dll" lastWriteTime="11/15/2013 11:42:58 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\BaseImage.jpg" archivePath="BaseImage.jpg" lastWriteTime="11/11/2013 7:53:15 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\appbar.transport.ff.rest.png" archivePath="Images\appbar.transport.ff.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\appbar.transport.pause.rest.png" archivePath="Images\appbar.transport.pause.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\appbar.transport.play.rest.png" archivePath="Images\appbar.transport.play.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\appbar.transport.rew.rest.png" archivePath="Images\appbar.transport.rew.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\Artists.png" archivePath="Images\Artists.png" lastWriteTime="11/10/2013 4:41:51 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\AudioBooks.png" archivePath="Images\AudioBooks.png" lastWriteTime="11/10/2013 11:43:25 AM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\FeaturedPlayLists.png" archivePath="Images\FeaturedPlayLists.png" lastWriteTime="11/10/2013 4:28:37 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\GreatestHits.png" archivePath="Images\GreatestHits.png" lastWriteTime="11/11/2013 7:57:43 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\header.png" archivePath="Images\header.png" lastWriteTime="11/10/2013 12:34:28 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\HeaderIcon.jpg" archivePath="Images\HeaderIcon.jpg" lastWriteTime="11/10/2013 12:38:11 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\HeaderIcon.png" archivePath="Images\HeaderIcon.png" lastWriteTime="11/10/2013 4:20:31 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\Help.png" archivePath="Images\Help.png" lastWriteTime="11/10/2013 4:34:18 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\Kids.png" archivePath="Images\Kids.png" lastWriteTime="11/10/2013 11:45:32 AM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\MyPlaylists.png" archivePath="Images\MyPlaylists.png" lastWriteTime="11/10/2013 4:46:27 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\OfflineSongs.png" archivePath="Images\OfflineSongs.png" lastWriteTime="11/10/2013 4:22:54 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\PlayerQueue.png" archivePath="Images\PlayerQueue.png" lastWriteTime="11/10/2013 11:26:20 AM" />
+  <file source="C:\streamingvideos\AudioPlayer\Images\Search.png" archivePath="Images\Search.png" lastWriteTime="11/10/2013 4:18:35 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\LoadingWait.png" archivePath="LoadingWait.png" lastWriteTime="11/11/2013 7:53:15 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/15/2013 11:42:58 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="10/9/2013 4:30:33 PM" />
+  <file source="C:\streamingvideos\AudioPlayer\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="10/9/2013 4:30:33 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="9/10/2012 10:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="9/10/2012 10:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="3/3/2013 7:40:38 PM" />
+  <file source="C:\streamingvideos\PlaybackAgent\Bin\Debug\PlayStation.dll" archivePath="PlayStation.dll" lastWriteTime="11/15/2013 11:42:57 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml" archivePath="Microsoft.Advertising.Mobile.xml" lastWriteTime="7/20/2012 8:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.xml" archivePath="microsoft.advertising.mobile.ui.xml" lastWriteTime="7/20/2012 8:57:18 AM" />
+  <file source="C:\streamingvideos\AudioPlayer\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/15/2013 11:42:58 PM" />
+</xapCache>

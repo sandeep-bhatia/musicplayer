@@ -1,0 +1,5 @@
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.dll
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.pdb
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.csprojResolveAssemblyReference.cache
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.dll
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.pdb

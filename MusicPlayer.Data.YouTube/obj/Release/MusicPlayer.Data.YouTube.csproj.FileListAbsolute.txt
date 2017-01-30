@@ -1,0 +1,14 @@
+C:\streamingvideos\PlaybackAgent\Bin\Release\MusicPlayer.Data.YouTube.dll
+C:\streamingvideos\PlaybackAgent\Bin\Release\MusicPlayer.Data.YouTube.pdb
+C:\streamingvideos\PlaybackAgent\Bin\Release\MusicPlayer.Data.Interfaces.dll
+C:\streamingvideos\PlaybackAgent\Bin\Release\MusicPlayer.Data.Interfaces.pdb
+C:\streamingvideos\PlaybackAgent\obj\Release\MusicPlayer.Data.YouTube.csprojResolveAssemblyReference.cache
+C:\streamingvideos\PlaybackAgent\obj\Release\MusicPlayer.Data.YouTube.dll
+C:\streamingvideos\PlaybackAgent\obj\Release\MusicPlayer.Data.YouTube.pdb
+C:\MusicPlayer\MusicPlayer.Data.YouTube\Bin\Release\MusicPlayer.Data.YouTube.dll
+C:\MusicPlayer\MusicPlayer.Data.YouTube\Bin\Release\MusicPlayer.Data.YouTube.pdb
+C:\MusicPlayer\MusicPlayer.Data.YouTube\Bin\Release\MusicPlayer.Data.Interfaces.dll
+C:\MusicPlayer\MusicPlayer.Data.YouTube\Bin\Release\MusicPlayer.Data.Interfaces.pdb
+C:\MusicPlayer\MusicPlayer.Data.YouTube\obj\Release\MusicPlayer.Data.YouTube.csprojResolveAssemblyReference.cache
+C:\MusicPlayer\MusicPlayer.Data.YouTube\obj\Release\MusicPlayer.Data.YouTube.dll
+C:\MusicPlayer\MusicPlayer.Data.YouTube\obj\Release\MusicPlayer.Data.YouTube.pdb

@@ -1,0 +1,12 @@
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\Bin\Debug\PlayStation.dll
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\Bin\Debug\PlayStation.pdb
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\obj\Debug\PlayStation.dll
+E:\apps\AudioStreaming\C#\AudioPlaybackAgent1\obj\Debug\PlayStation.pdb
+C:\Users\sandeepb\Desktop\AudioStreaming\AudioStreaming\C#\PlaybackAgent\Bin\Debug\PlayStation.dll
+C:\Users\sandeepb\Desktop\AudioStreaming\AudioStreaming\C#\PlaybackAgent\Bin\Debug\PlayStation.pdb
+C:\Users\sandeepb\Desktop\AudioStreaming\AudioStreaming\C#\PlaybackAgent\obj\Debug\PlayStation.dll
+C:\Users\sandeepb\Desktop\AudioStreaming\AudioStreaming\C#\PlaybackAgent\obj\Debug\PlayStation.pdb
+C:\streamingvideos\PlaybackAgent\Bin\Debug\PlayStation.dll
+C:\streamingvideos\PlaybackAgent\Bin\Debug\PlayStation.pdb
+C:\streamingvideos\PlaybackAgent\obj\Debug\PlayStation.dll
+C:\streamingvideos\PlaybackAgent\obj\Debug\PlayStation.pdb

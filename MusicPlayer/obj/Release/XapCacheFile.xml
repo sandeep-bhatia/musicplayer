@@ -1,0 +1,26 @@
+﻿<xapCache source="C:\MusicPlayer\MusicPlayer\Bin\Release\PlayStation_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11/16/2013 1:01:45 PM">
+  <file source="C:\MusicPlayer\MusicPlayer\obj\Release\MusicPlayer.Shell.dll" archivePath="MusicPlayer.Shell.dll" lastWriteTime="11/16/2013 1:01:44 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Images\appbar.transport.ff.rest.png" archivePath="Images\appbar.transport.ff.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Images\appbar.transport.pause.rest.png" archivePath="Images\appbar.transport.pause.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Images\appbar.transport.play.rest.png" archivePath="Images\appbar.transport.play.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Images\appbar.transport.rew.rest.png" archivePath="Images\appbar.transport.rew.rest.png" lastWriteTime="10/9/2013 4:30:34 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Toolkit.Content\ApplicationBar.Add.png" archivePath="Toolkit.Content\ApplicationBar.Add.png" lastWriteTime="11/16/2013 1:21:46 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="11/16/2013 1:21:46 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="11/16/2013 1:21:46 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="11/16/2013 1:21:46 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="11/16/2013 1:21:46 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="10/9/2013 1:58:54 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/16/2013 1:01:45 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="9/10/2012 10:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="9/10/2012 10:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="3/3/2013 7:40:38 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="11/16/2013 1:21:46 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer.Data.Interfaces\Bin\Release\MusicPlayer.Data.Interfaces.dll" archivePath="MusicPlayer.Data.Interfaces.dll" lastWriteTime="11/16/2013 1:01:43 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer.Data.YouTube\Bin\Release\MusicPlayer.Data.YouTube.dll" archivePath="MusicPlayer.Data.YouTube.dll" lastWriteTime="11/16/2013 1:01:43 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml" archivePath="Microsoft.Advertising.Mobile.xml" lastWriteTime="7/20/2012 8:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.xml" archivePath="microsoft.advertising.mobile.ui.xml" lastWriteTime="7/20/2012 8:57:18 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer.Data.YouTube\YouTubeInterface.txt" archivePath="YouTubeInterface.txt" lastWriteTime="11/16/2013 10:24:56 AM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/16/2013 1:01:45 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\Background.png" archivePath="Background.png" lastWriteTime="10/9/2013 1:58:54 PM" />
+  <file source="C:\MusicPlayer\MusicPlayer\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="10/9/2013 1:58:54 PM" />
+</xapCache>

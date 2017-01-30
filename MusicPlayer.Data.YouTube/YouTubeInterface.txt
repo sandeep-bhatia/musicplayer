@@ -1,0 +1,16 @@
+﻿			    if (genre == YouTubeChannelGenre.MusicPlaylist)
+                {
+                    query = musicChannelQuery.Replace("IN_QUERY", id);
+                }
+                else
+                {
+                    query = videosString.Replace("IN_AUTHOR", id);
+                    query = query.Replace("start-index=1", string.Format("start-index={0}", startIndex));
+                }
+
+
+				static string searchQueryString = "http://gdata.youtube.com/feeds/api/channels?q=IN_QUERY&start-index=1&v=2";
+				static string genreChannelsString = "http://gdata.youtube.com/feeds/api/channelstandardfeeds/IN_COUNTRY/most_subscribed_IN_GENRE?v=2&start-index=1";
+				static string popularChannelsString = "http://gdata.youtube.com/feeds/api/channelstandardfeeds/IN_COUNTRY/most_viewed?v=2&start-index=1";
+				static string videosString = "http://gdata.youtube.com/feeds/api/videos?author=IN_AUTHOR&orderby=published&start-index=1&v=2";
+      
